@@ -1,2 +1,1 @@
-# introHomeWork
-first lessons
+# mentoring-simple-webpack-starter
